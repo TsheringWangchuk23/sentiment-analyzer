@@ -1,3 +1,5 @@
 streamlit
 scikit-learn
-numpy
+pandas
+beautifulsoup4
+nltk
